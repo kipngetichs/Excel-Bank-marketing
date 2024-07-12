@@ -15,6 +15,18 @@ The action plan  for this project involves leveraging Excel to systematically an
  - Entreprenuers,management,services,self-employed and technicians are among customer's job titles with highest salaries income compared to retied,admin.blue-collar,students,unemployed,self-employed,house maids,unkown and students have very low income salaries.
  - Predictive model for success rate is provided below using excel and vlookups.
 
+![Excel predictive model](https://github.com/user-attachments/assets/1fb661e7-35a6-4049-889d-94d4a4fca827)
+# Recommendations
+- Customers in the age categories 30-39, 40-49, 50-59, and 20-29 exhibit the highest purchasing power. Prioritize marketing efforts toward these age groups to maximize conversions and sales.
+- Management customers group has the highest purchasing power among all job titles. They should be the primary focus for targeted marketing campaigns. Technicians, Blue-collar, Admin, and Retired, these groups also show significant purchasing power and should be secondary targets in the campaigns.
+- High-Income Job Titles like  Entrepreneurs, Management, Services, Self-employed, and Technicians customers have the highest salary incomes. These groups are more likely to afford premium products and services. Tailor high-end offerings and personalized campaigns to attract these segments.
+- Low-Income Groups like Retired, Admin, Blue-collar, Students, Unemployed, Self-employed, House maids, and Unknown customers have lower salary incomes. Design cost-effective and value-based offerings that cater to their financial capabilities. Emphasize affordability and benefits that align with their needs.
+- Age and Job Title Combination: Targeting the high purchasing power age groups (30-39, 40-49, 50-59, 20-29) within the high salary and high purchasing power job titles (Management, Technicians, Blue-collar, Admin, Retired). This strategy ensures a focused approach towards customers segments with the highest potential for conversion.
+# Reflection
+Through the successful completion of this project, i have gained invaluable insights into the bank's customer purchasing behavior, demonstrating the power of data-driven decision-making. By leveraging Excel for data analysis, i identified key demographics and job categories with the highest purchasing power and success rates. This project underscored the importance of targeting high-potential customer segments and customizing marketing strategies to fit their unique profiles. The process also highlighted the necessity of continuous monitoring and adjustment based on real-time data. Overall, this project has reinforced the critical role of data analytics in optimizing marketing efforts and driving business growth.
+
+
+
 
 
 
